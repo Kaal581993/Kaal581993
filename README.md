@@ -43,4 +43,25 @@
 ++*+%-=%==#=:::::::::::::::::::---=+=--------------:::::::::-=-*++++-=
 
 ```
+### 🛠️ My Tech Stack
 
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Current Focus** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-0089D6?style=flat-square) |
+| **Web & API** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square) |
+| **Tools & OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
+
+### 🌐 Connect with Me
+
+| Platform | Link |
+| :--- | :--- |
+| **Website** | [Portfolio](https://kaal581993.github.io/) |
+| **GitHub** | [@Kaal581993](https://github.com/Kaal581993/) |
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaal581993&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaal581993&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
